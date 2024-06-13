@@ -17,11 +17,11 @@
 <a href="https://www.linkedin.com/in/mohamed-mostafa-93212124b" target="_blank"><img src="https://img.shields.io/badge/-Mohamed%20Mostafa-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 
 ### 🛠 &nbsp;Tech Stack
-![C++](https://img.shields.io/badge/C%2B%2B-05122A?style=flat&logo=C%2B%2B)&nbsp;
-![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&labelColor=01427d&logoColor=6295cb&logo=cplusplus)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&labelColor=FFD43B&logoColor=3776AB&logo=python)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&labelColor=F05032&logoColor=ffffff&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-ffffff?style=for-the-badge&labelColor=181717&logoColor=ffffff&logo=github)
+![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&labelColor=002b36&logoColor=DC322F&logo=scala) 
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MohamedMostafa259&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
 <br>
